@@ -1,0 +1,3 @@
+rootProject.name = "Java Single & Multidimensional arrays"
+include ':app'
+include ':Assignment'
